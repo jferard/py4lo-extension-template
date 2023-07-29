@@ -1,0 +1,8 @@
+.pytest_cache
+.idea
+temp
+venv
+
+.coverage
+*.pyc
+*.oxt
